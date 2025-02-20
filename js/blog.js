@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     <div class="blog-meta">
                         <ul>
                             <li><i class="far fa-clock"></i> ${post.date}</li>
-                            <li><i class="far fa-comments"></i><a href="#">2 Comments</a></li>
+                            
                         </ul>
                     </div>
                     <div class="blog-body">
