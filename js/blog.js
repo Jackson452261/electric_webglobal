@@ -42,27 +42,7 @@ document.addEventListener("DOMContentLoaded", function () {
             date: "May 01",
             image: "http://via.placeholder.com/600x400/555/aaa"
         },
-        {
-            id: 7,
-            title: "電力智慧管理：未來趨勢",
-            description: "智慧電力管理系統正在改變能源使用方式。了解 IoT 物聯網如何幫助企業和家庭最佳化能源效率。",
-            date: "May 10",
-            image: "http://via.placeholder.com/600x400/666/999"
-        },
-        {
-            id: 8,
-            title: "電力系統安全檢查的重要性",
-            description: "許多電氣火災是由老舊電線或不當使用電力設備引起的。學習如何進行基本的電力安全檢查，確保您的設備運作安全。",
-            date: "Jun 02",
-            image: "http://via.placeholder.com/600x400/777/888"
-        },
-        {
-            id: 9,
-            title: "發電機與備用電源：如何選擇？",
-            description: "發電機和 UPS 備用電源是應對突發停電的關鍵設備。我們分析不同類型的備用電源，幫助您選擇最適合的方案。",
-            date: "Jun 15",
-            image: "http://via.placeholder.com/600x400/888/777"
-        }
+       
     ];
     
     
